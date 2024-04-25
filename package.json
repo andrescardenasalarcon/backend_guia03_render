@@ -20,8 +20,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "node index.js",
-    "build": "tsc -w"
+    "start": "node index.js"
   },
   "eslintConfig": {
     "extends": [
